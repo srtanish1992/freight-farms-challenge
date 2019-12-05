@@ -10,6 +10,7 @@ This is the back-end part of the application.
 Project is created with:
 * Node - server
 * Express - node web application framework
+* bcrypt-nodejs - salting and hashing password
 * jwt-simple - to generate token for authentication
 * passport - authentication middleware
 * Jest and supertest - testing frameworks
